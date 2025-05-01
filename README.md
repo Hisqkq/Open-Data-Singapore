@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets\img\lion-logo.png" height="120" alt="Open Data Singapore">
+  <img src="assets\img\logo-removebg-preview.png" height="120" alt="Open Data Singapore">
   <h1 align="center">Open Data Singapore 📊🇸🇬</h1>
   <p align="center">
     Interactive dashboard to explore public datasets from <a href="https://data.gov.sg">data.gov.sg</a>, built with Dash &amp; Plotly.<br/>
